@@ -1,4 +1,7 @@
-## Hi there 👋
+### about me:
+  - 🎓 3° year Computer Science Engineering student @ Polimi
+  - 🎧 Acoustic Engineer wannabe
+  - 🎵 Music producer and dancer
 
 <!--
 **AlbaniLorenzo/AlbaniLorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
